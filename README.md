@@ -19,3 +19,5 @@ A practical project that helps people find essential medicines in nearby pharmac
   <img src="https://i.giphy.com/media/U4FkC2VqpeNRHjTDQ5/giphy.gif" width="45%" />
   <img src="https://i.giphy.com/media/dtB7kgF86VwZWY5Iee/giphy.gif" width="45%" />
 </p>
+---
+“Data is the oil of the future” 📊🛢️✨
