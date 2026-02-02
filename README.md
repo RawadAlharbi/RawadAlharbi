@@ -16,6 +16,6 @@ A practical project that helps people find essential medicines in nearby pharmac
 •⁠  ⁠Shows which pharmacies have the requested medicine and availability trends.
 •⁠  ⁠Built using Python, Pandas, and Matplotlib/Plotly for clear and interactive visualizations.
 <p align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXZueXZueXZueXZueXZueXZueXZueXZueXZueXZueXZueZpZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/U4FkC2VqpeNRHjTDQ5/giphy.gif" width="45%" />
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXZueXZueXZueXZueXZueXZueXZueXZueXZueXZueXZueZpZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dtB7kgF86VwZWY5Iee/giphy.gif" width="45%" />
+  <img src="https://i.giphy.com/media/U4FkC2VqpeNRHjTDQ5/giphy.gif" width="45%" />
+  <img src="https://i.giphy.com/media/dtB7kgF86VwZWY5Iee/giphy.gif" width="45%" />
 </p>
